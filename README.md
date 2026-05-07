@@ -68,20 +68,6 @@ Se executou `php artisan db:seed`, foram criados:
 - O Pequeno Príncipe
 - O Hobbit
 
-## Uso de IA
-
-**Utilizei IA?** Sim
-
-**Para quê?**
-- Utilizei Claude (Anthropic) para auxiliar na estruturação do código Laravel
-- Ajuda com sintaxe de validação e relações Eloquent
-- Criação da interface visual com Tailwind CSS
-
-**Nota:** O código foi compreendido e adaptado conforme necessário, não foi apenas copiado. A IA serviu como ferramenta de aprendizagem e aceleração do desenvolvimento.
-
-## Estrutura do Projeto
-
-```
 FranciscoMonteiro_a22405043_teste
 ├── app/
 │   ├── Http/Controllers/
