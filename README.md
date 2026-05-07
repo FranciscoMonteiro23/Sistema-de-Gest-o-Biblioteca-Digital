@@ -44,9 +44,6 @@
 - [x] Interface moderna e responsiva com Tailwind CSS
 - [x] Seeders (BÓNUS - CategorySeeder, UserSeeder, BookSeeder)
 
-**Nota sobre Loans:**
-A migration e model de Loans foram criados conforme requisitado, demonstrando compreensão de **relações 1:N** e da modelação de uma **entidade associativa com atributos** (datas de empréstimo, estado de devolução). O CRUD não foi implementado conforme indicação do enunciado.
-
 ## Credenciais de Teste (Seeders)
 
 Se executou `php artisan db:seed`, foram criados:
