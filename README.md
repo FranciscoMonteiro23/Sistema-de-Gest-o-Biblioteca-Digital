@@ -1,8 +1,5 @@
-# Biblioteca Digital - Teste PSW1
+Biblioteca Digital 
 
-**Aluno:** Francisco Monteiro  
-**Número:** a22405043  
-**Data:** 19 de janeiro de 2026
 
 ## Instalação
 
@@ -161,6 +158,3 @@ O sistema possui uma interface moderna com:
 - Ícones Font Awesome
 - Design limpo e profissional
 
----
-
-**Desenvolvido por Francisco Monteiro (a22405043) - PSW1 2025/2026**
